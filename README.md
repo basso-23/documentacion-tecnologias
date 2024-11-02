@@ -37,7 +37,6 @@
      npm run start
      ```
 
----
 
 ## Node con NVM
 1. **Instalar NVM (Node Version Manager)**:
@@ -61,7 +60,6 @@
    node -v
    ```
 
----
 
 ## Configuración de PM2
 PM2 es un administrador de procesos de Node.js que permite manejar proyectos en segundo plano.
@@ -115,4 +113,3 @@ PM2 es un administrador de procesos de Node.js que permite manejar proyectos en 
      pm2 list
      ```
 
----
