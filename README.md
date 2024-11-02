@@ -1,6 +1,6 @@
 ## Strapi <img align="left" alt="Strapi" width="30px" style="padding-right:0px;" src="https://assets.super.so/e7c0f16c-8bd3-4c76-8075-4c86f986e1b2/uploads/favicon/9c68ae10-0a8a-4e3f-9084-3625b19df9cb.png" />
 
-- **Node**: Versión **v20.10.0** (OBLIGATORIA). Asegúrate de tenerla instalada.
+- **Node**: Versión **v20.10.0** (REQUIRED).
 1. **Crear el proyecto**:
    ```bash
    npx create-strapi-app my-server --quickstart
