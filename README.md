@@ -1,4 +1,4 @@
-## Instalación de un Nuevo Proyecto en Strapi
+## Strapi
 - **Node**: Versión **v20.10.0** (OBLIGATORIA). Asegúrate de tenerla instalada.
 1. **Crear el proyecto**:
    ```bash
@@ -39,7 +39,7 @@
 
 ---
 
-## Cambio de Versión de Node con NVM
+## Node con NVM
 1. **Instalar NVM (Node Version Manager)**:
    ```bash
    curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
@@ -63,7 +63,7 @@
 
 ---
 
-## Configuración de PM2 en un Proyecto
+## Configuración de PM2
 PM2 es un administrador de procesos de Node.js que permite manejar proyectos en segundo plano.
 
 1. **Instalar PM2 globalmente**:
