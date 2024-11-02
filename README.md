@@ -39,7 +39,7 @@
      ```
 
 
-## Node con NVM
+## Node con NVM <img align="left" alt="Strapi" width="30px" style="padding-right:0px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" />
 1. **Instalar NVM (Node Version Manager)**:
    ```bash
    curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
@@ -62,7 +62,7 @@
    ```
 
 
-## Configuración de PM2 <img align="left" alt="Strapi" width="30px" style="padding-right:0px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/2560px-Node.js_logo_2015.svg.png" />
+## Configuración de PM2 <img align="left" alt="Strapi" width="30px" style="padding-right:0px;" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/pm2-icon.svg" />
 PM2 es un administrador de procesos de Node.js que permite manejar proyectos en segundo plano.
 
 1. **Instalar PM2 globalmente**:
