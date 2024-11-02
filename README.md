@@ -1,4 +1,4 @@
-## Strapi <img align="left" alt="Strapi" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+## Strapi <img align="left" alt="Strapi" width="30px" style="padding-right:0px;" src="https://assets.super.so/e7c0f16c-8bd3-4c76-8075-4c86f986e1b2/uploads/favicon/9c68ae10-0a8a-4e3f-9084-3625b19df9cb.png" />
 
 - **Node**: Versión **v20.10.0** (OBLIGATORIA). Asegúrate de tenerla instalada.
 1. **Crear el proyecto**:
@@ -62,7 +62,7 @@
    ```
 
 
-## Configuración de PM2
+## Configuración de PM2 <img align="left" alt="Strapi" width="30px" style="padding-right:0px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/2560px-Node.js_logo_2015.svg.png" />
 PM2 es un administrador de procesos de Node.js que permite manejar proyectos en segundo plano.
 
 1. **Instalar PM2 globalmente**:
