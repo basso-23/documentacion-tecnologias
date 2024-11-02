@@ -1,10 +1,5 @@
-
-# Documentación de tecnologías
-
-## Requisitos Previos
-- **Node**: Versión **v20.10.0** (OBLIGATORIA). Asegúrate de tenerla instalada.
-
 ## Instalación de un Nuevo Proyecto en Strapi
+- **Node**: Versión **v20.10.0** (OBLIGATORIA). Asegúrate de tenerla instalada.
 1. **Crear el proyecto**:
    ```bash
    npx create-strapi-app my-server --quickstart
