@@ -6,9 +6,8 @@
    ```
 2. **Crear una nueva colección**:
    - Navega a **Content-Type Builder > Create new collection type**.
-   - **Configuración recomendada**:
-     - Desactiva la opción **"Draft & publish"** en **Advanced Settings** para evitar problemas de visualización.
-     - Ingresa el nombre de la colección en singular (campo “display name”) y selecciona **Continue**.
+   - Desactiva la opción **"Draft & publish"** en **Advanced Settings** para evitar problemas de visualización.
+   - Ingresa el nombre de la colección en singular (campo “display name”) y selecciona **Continue**.
 
    **Nota**: En VPS, Strapi puede no reiniciarse automáticamente al crear colecciones. Monitorea el log para verificar la creación de la colección y actualiza la página manualmente si ves el mensaje **"Waiting for restart..."**. Esto puede requerir varios "refresh" hasta que se elimine el loader.
 
