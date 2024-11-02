@@ -1,4 +1,5 @@
-## Strapi
+## Strapi <img align="left" alt="Strapi" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+
 - **Node**: Versión **v20.10.0** (OBLIGATORIA). Asegúrate de tenerla instalada.
 1. **Crear el proyecto**:
    ```bash
