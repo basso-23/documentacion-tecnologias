@@ -1,3 +1,4 @@
+
 ## Strapi <img align="left" alt="Strapi" width="30px" style="padding-right:0px;" src="https://assets.super.so/e7c0f16c-8bd3-4c76-8075-4c86f986e1b2/uploads/favicon/9c68ae10-0a8a-4e3f-9084-3625b19df9cb.png" />
 
 - **Node**: Versión **v20.10.0** (REQUIRED)
@@ -5,6 +6,16 @@
    ```bash
    npx create-strapi-app my-server --quickstart
    ```
+   
+   Al ejecutar el comando anterior, responde a las preguntas de la siguiente manera:
+   
+   - `Please log in or sign up.` → **Skip**
+   - `Do you want to use the default database (sqlite)?` → **Yes**
+   - `Start with an example structure & data?` → **No**
+   - `Start with Typescript?` → **Yes**
+   - `Install dependencies with npm?` → **Yes**
+   - `Initialize a git repository?` → **No**
+
 2. **Crear una nueva colección**:
    - Navega a **Content-Type Builder > Create new collection type**.
    - Desactiva la opción **"Draft & publish"** en **Advanced Settings** para evitar problemas de visualización.
@@ -39,7 +50,7 @@
      ```
 
 
-## Node con NVM <img align="left" alt="Strapi" width="30px" style="padding-right:0px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" />
+## Node con NVM <img align="left" alt="Node" width="30px" style="padding-right:0px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" />
 1. **Instalar NVM (Node Version Manager)**:
    ```bash
    curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
@@ -62,7 +73,7 @@
    ```
 
 
-## Configuración de PM2 <img align="left" alt="Strapi" width="30px" style="padding-right:0px;" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/pm2-icon.svg" />
+## Configuración de PM2 <img align="left" alt="PM2" width="30px" style="padding-right:0px;" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/pm2-icon.svg" />
 PM2 es un administrador de procesos de Node.js que permite manejar proyectos en segundo plano.
 
 1. **Instalar PM2 globalmente**:
@@ -113,4 +124,3 @@ PM2 es un administrador de procesos de Node.js que permite manejar proyectos en 
      ```bash
      pm2 list
      ```
-
