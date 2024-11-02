@@ -76,7 +76,7 @@ PM2 es un administrador de procesos de Node.js que permite manejar proyectos en 
    ```
 4. **Iniciar el proyecto con PM2**:
    ```bash
-   pm2 start npm --name "strapi" -- start
+   pm2 start npm --name "nombre-del-proyecto" -- start
    ```
 5. **Configurar PM2 para iniciar automáticamente al encender el sistema**:
    ```bash
